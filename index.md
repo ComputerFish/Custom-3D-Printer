@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my page about my 3D-printer
 
 You can use the [editor on GitHub](https://github.com/ComputerFish/Custom-3D-Printer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Project spanned from start to finish about a year coming from no knowledge about 3D printers to having a fully custom working 3D printer that can print large scale items with fast print times. This project started with wanting more from my other projects and having more options to build prototypes and casings.
 
 ### Markdown
 
